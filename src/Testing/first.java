@@ -3,7 +3,9 @@ package Testing;
 public class first {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// this is my first java coding 
+		
+		System.out.println("Welcome to my shop");
 
 	}
 
